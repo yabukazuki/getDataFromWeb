@@ -3,9 +3,9 @@ web からのデータ取得についてまとめています。
 
 ## 環境
 ライブラリのインストール
-"""
-pip install -r requirements.txt
-"""
+
+`pip install -r requirements.txt`
+
 
 ## ファイルについて
 getDataFromWeb.ipynb  まとめ (GoogleColab)
@@ -15,9 +15,9 @@ datasetSample.csv  データセットのサンプル
 
 ## 取得コードについて
 取得コードを動かすとデータセットのサンプルがコードと同じディレクトリに生成されます。
-"""
-python getData.py
-"""
+
+`python getData.py`
+
 
 // Created by yabukazuki on 2022/10/2
 // Copyright © 2022 yabukazuki All rights reserved.
